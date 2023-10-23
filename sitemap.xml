@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ShadwnBook.github.io/docs/example/%E9%A0%90%E8%A8%ADfolder/with-toc/</loc>
+    <loc>https://ShadwnBook.github.io/docs/example/%E6%8D%8F%E6%B3%A5%E5%B7%B4/00/</loc>
   </url><url>
     <loc>https://ShadwnBook.github.io/docs/example/</loc>
   </url><url>
-    <loc>https://ShadwnBook.github.io/docs/example/%E9%A0%90%E8%A8%ADfolder/without-toc/</loc>
+    <loc>https://ShadwnBook.github.io/docs/example/%E6%8D%8F%E6%B3%A5%E5%B7%B4/01/</loc>
   </url><url>
     <loc>https://ShadwnBook.github.io/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
@@ -14,7 +14,7 @@
     <loc>https://ShadwnBook.github.io/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ShadwnBook.github.io/docs/example/%E9%A0%90%E8%A8%ADfolder/</loc>
+    <loc>https://ShadwnBook.github.io/docs/example/%E6%8D%8F%E6%B3%A5%E5%B7%B4/</loc>
   </url><url>
     <loc>https://ShadwnBook.github.io/docs/example/collapsed/</loc>
   </url><url>
@@ -82,6 +82,12 @@
   </url><url>
     <loc>https://ShadwnBook.github.io/docs/shortcodes/mermaid/</loc>
   </url><url>
+    <loc>https://ShadwnBook.github.io/docs/shortcodes/section2/</loc>
+  </url><url>
+    <loc>https://ShadwnBook.github.io/docs/shortcodes/section2/firstpage/</loc>
+  </url><url>
+    <loc>https://ShadwnBook.github.io/docs/shortcodes/section2/second-page/</loc>
+  </url><url>
     <loc>https://ShadwnBook.github.io/docs/shortcodes/section/</loc>
   </url><url>
     <loc>https://ShadwnBook.github.io/docs/shortcodes/section/first-page/</loc>
@@ -89,12 +95,6 @@
     <loc>https://ShadwnBook.github.io/docs/shortcodes/section/second-page/</loc>
   </url><url>
     <loc>https://ShadwnBook.github.io/docs/shortcodes/tabs/</loc>
-  </url><url>
-    <loc>https://ShadwnBook.github.io/docs/shortcodes/%E6%8D%8F%E6%B3%A5%E5%B7%B4_%E7%AC%AC%E4%B8%80%E5%86%8A/00/</loc>
-  </url><url>
-    <loc>https://ShadwnBook.github.io/docs/shortcodes/%E6%8D%8F%E6%B3%A5%E5%B7%B4_%E7%AC%AC%E4%B8%80%E5%86%8A/</loc>
-  </url><url>
-    <loc>https://ShadwnBook.github.io/docs/shortcodes/%E6%8D%8F%E6%B3%A5%E5%B7%B4_%E7%AC%AC%E4%B8%80%E5%86%8A/second-page/</loc>
   </url><url>
     <loc>https://ShadwnBook.github.io/docs/</loc>
   </url>

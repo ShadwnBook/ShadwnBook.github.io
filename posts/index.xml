@@ -5,18 +5,8 @@
     <link>https://ShadwnBook.github.io/posts/</link>
     <description>Recent content in Blog on Shadwn Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://ShadwnBook.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Creating a New Theme</title>
-      <link>https://ShadwnBook.github.io/posts/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://ShadwnBook.github.io/posts/creating-a-new-theme/</guid>
-      <description>Introduction#This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ShadwnBook.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Migrate to Hugo from Jekyll</title>
       <link>https://ShadwnBook.github.io/posts/migrate-from-jekyll/</link>
@@ -26,6 +16,48 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <description>Move static content to static#Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/▾ images/logo.pngshould become
 ▾ &amp;lt;root&amp;gt;/▾ static/▾ images/logo.pngAdditionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>波赫士《禮物》</title>
+      <link>https://ShadwnBook.github.io/posts/%E6%B3%A2%E8%B5%AB%E5%A3%AB_%E7%A6%AE%E7%89%A9/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShadwnBook.github.io/posts/%E6%B3%A2%E8%B5%AB%E5%A3%AB_%E7%A6%AE%E7%89%A9/</guid>
+      <description>詩全文#你得到了不可見的音樂， 那是時間的特點，在時間中休止； 你得到了悲劇的美質， 你得到了愛情，可怕的事物。
+你得以知道 世上的美人中間只有一位， 能在下午辨清月亮 以及和月亮一起的星辰。
+你得到了罪名， 順從地審視刀劍的罪行 迦太基的廢墟， 東西方難解難分的戰役。
+你得到了語言，騙人的東西， 你得到了肉體，無非是一堆塵土， 你得到淫穢的噩夢， 以及在鏡子裡瞅著我們的另一個人。
+時間斂聚的書籍裡 給了你幾頁篇幅； 還有時間長河沒有沖刷掉的 伊利亞的悖論。
+名字像一把劍， 把文字付諸行動的那一位， 給了你人類之愛的驕傲的血液， （這是一個希臘哲人的比喻。）
+你還得到了別的東西和他們的名字； 正方體、金字塔、球體、數不清的沙粒、木頭 和一個讓你混跡人間的軀體。
+你無愧地品味了每一天； 這就是你的例子，也是我的。
+這首詩，對我寫作《捏泥巴》的續集相當重要，我會記得它。</description>
+    </item>
+    
+    <item>
+      <title>我的現代音樂簡史</title>
+      <link>https://ShadwnBook.github.io/posts/%E6%88%91%E7%9A%84%E7%8F%BE%E4%BB%A3%E9%9F%B3%E6%A8%82%E7%B0%A1%E5%8F%B2/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShadwnBook.github.io/posts/%E6%88%91%E7%9A%84%E7%8F%BE%E4%BB%A3%E9%9F%B3%E6%A8%82%E7%B0%A1%E5%8F%B2/</guid>
+      <description>基督教音樂#源頭都來自宗教，所以如果不知道理性分析會被利用。可以想想佛經與聖歌。 音樂一開始並不是拿來享受的，甚至是一種努力，當然更是一種傳教工具。
+基督新金屬樂團P.O.D 當時Katty Perry也在其中伴唱。
+福音音樂#特色是沒有樂器演奏的基督教音樂，內容主要是唱聖經 那時黑人買不起樂器，只能打結拍清唱，後來成為A-cappella
+其實A-cappella本身不是一種風格，她只是清唱的代名詞。還有黑奴的時代，黑人要學習語言教材就是基督教音樂，黑人稱之為福音。真諷刺。
+奇異恩典在以前有非常多的版本，套什麼旋律的都有。 福音女皇-哈利亞傑克森 與 馬丁路德金恩有很大的關係。 藍調音樂#五聲音階、十二小節 （但最早一定是沒有規矩的）
+Lead Belly(鉛肚皮)為藍調大師
+台灣有藍掉的琵琶演奏家，鐘玉鳳有重新演譯過
+鄉間音樂、鄉村音樂#最早興起在美國南方
+卡特家族、布理斯托爾現場、約翰丹佛Coutry Road Take Me Home
+以二戰為區分藍調與節奏藍調
+R&amp;amp;B 節奏藍調 （二戰後的藍調）#黑人稱自己的音樂為藍調
+二戰之前，所有黑人的音樂都被唱片商在唱片上標上種族音樂（Race Music）的標籤，二戰因為黑人戰功，市場也大了，標籤才改為R&amp;amp;B
+爵士#最早被叫 JackAss 後來簡化成 Jass 後來又因為J常被撕掉變成 Ass，所以才改成 Jazz
+搖（Rock）
+搖滾( Rock &amp;amp; Roll ) 貓王
+工業音樂
+迪斯可與LGBT</description>
     </item>
     
     <item>

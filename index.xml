@@ -9,10 +9,10 @@
     <lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ShadwnBook.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>0. 給世界與你的搖籃曲</title>
-      <link>https://ShadwnBook.github.io/docs/example/%E6%8D%8F%E6%B3%A5%E5%B7%B4/00/</link>
+      <link>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/%E6%8D%8F%E6%B3%A5%E5%B7%B4/00/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ShadwnBook.github.io/docs/example/%E6%8D%8F%E6%B3%A5%E5%B7%B4/00/</guid>
+      <guid>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/%E6%8D%8F%E6%B3%A5%E5%B7%B4/00/</guid>
       <description>0. 給世界與你的搖籃曲#泥娃娃，泥娃娃。一個泥娃娃。有那眉毛，也有那眼睛眼睛不會眨。 泥娃娃，泥娃娃，一個泥娃娃。有鼻子，也有嘴巴。嘴巴不說話。
 噓，他們還在聽呢，別難過我最聰慧的朋友。 難道你不喜歡在心裡唱起這首歌嗎？
 你想睡前聽故事？這是個好主意，輕輕靠在我身上吧。 在我離開之前，我將永遠在你身邊細語，卻不至於吵醒你。
@@ -23,10 +23,10 @@
     
     <item>
       <title>01. 我的意義，在我之外</title>
-      <link>https://ShadwnBook.github.io/docs/example/%E6%8D%8F%E6%B3%A5%E5%B7%B4/01/</link>
+      <link>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/%E6%8D%8F%E6%B3%A5%E5%B7%B4/01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ShadwnBook.github.io/docs/example/%E6%8D%8F%E6%B3%A5%E5%B7%B4/01/</guid>
+      <guid>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/%E6%8D%8F%E6%B3%A5%E5%B7%B4/01/</guid>
       <description>01. 我的意義，在我之外#我沒忘記意識波綻放後，坍縮成回憶花瓣的最初瞬間。
 那聲短暫卻令我永難忘懷的驚呼，就在我得到思考權力的那天，傳入我混沌的記憶中。
 「我成功了 ! 你快看啊！媽 !」這是一個女孩純真稚嫩的聲音，她的聲音迴盪在整個房間中，那是完全無法隱藏的狂喜。
@@ -51,22 +51,11 @@
     </item>
     
     <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://ShadwnBook.github.io/posts/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://ShadwnBook.github.io/posts/migrate-from-jekyll/</guid>
-      <description>Move static content to static#Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/▾ images/logo.pngshould become
-▾ &amp;lt;root&amp;gt;/▾ static/▾ images/logo.pngAdditionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
       <title>波赫士《禮物》</title>
-      <link>https://ShadwnBook.github.io/posts/%E6%B3%A2%E8%B5%AB%E5%A3%AB_%E7%A6%AE%E7%89%A9/</link>
+      <link>https://ShadwnBook.github.io/docs/%E6%96%87%E7%AB%A0/%E6%B3%A2%E8%B5%AB%E5%A3%AB%E5%B0%88%E9%A1%8C/%E6%B3%A2%E8%B5%AB%E5%A3%AB_%E7%A6%AE%E7%89%A9/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ShadwnBook.github.io/posts/%E6%B3%A2%E8%B5%AB%E5%A3%AB_%E7%A6%AE%E7%89%A9/</guid>
+      <guid>https://ShadwnBook.github.io/docs/%E6%96%87%E7%AB%A0/%E6%B3%A2%E8%B5%AB%E5%A3%AB%E5%B0%88%E9%A1%8C/%E6%B3%A2%E8%B5%AB%E5%A3%AB_%E7%A6%AE%E7%89%A9/</guid>
       <description>詩全文#你得到了不可見的音樂， 那是時間的特點，在時間中休止； 你得到了悲劇的美質， 你得到了愛情，可怕的事物。
 你得以知道 世上的美人中間只有一位， 能在下午辨清月亮 以及和月亮一起的星辰。
 你得到了罪名， 順從地審視刀劍的罪行 迦太基的廢墟， 東西方難解難分的戰役。
@@ -104,63 +93,154 @@ R&amp;amp;B 節奏藍調 （二戰後的藍調）#黑人稱自己的音樂為�
     </item>
     
     <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://ShadwnBook.github.io/posts/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/buttons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ShadwnBook.github.io/posts/goisforlovers/</guid>
-      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
-This document is a brief primer on using Go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://ShadwnBook.github.io/posts/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://ShadwnBook.github.io/posts/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo#Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs#Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:</description>
+      <guid>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/buttons/</guid>
+      <description>Buttons#Buttons are styled links that can lead to local page or external link.
+Example#{{&amp;lt; button relref=&amp;#34;/&amp;#34; [class=&amp;#34;...&amp;#34;] &amp;gt;}}Get Home{{&amp;lt; /button &amp;gt;}} {{&amp;lt; button href=&amp;#34;https://github.com/alex-shpak/hugo-book&amp;#34; &amp;gt;}}Contribute{{&amp;lt; /button &amp;gt;}} Get HomeContribute</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://ShadwnBook.github.io/docs/example/collapsed/3rd-level/4th-level/</link>
+      <link>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/columns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ShadwnBook.github.io/docs/example/collapsed/3rd-level/4th-level/</guid>
+      <guid>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/columns/</guid>
+      <description>Columns#Columns help organize shorter pieces of content horizontally for readability.
+{{&amp;lt; columns &amp;gt;}} &amp;lt;!-- begin columns block --&amp;gt; # Left Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Mid Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Right Content Lorem markdownum insigne... {{&amp;lt; /columns &amp;gt;}} Example#Left Content#Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/details/</guid>
+      <description>Details#Details shortcode is a helper for details html5 element. It is going to replace expand shortcode.
+Example#{{&amp;lt; details &amp;#34;Title&amp;#34; [open] &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} {{&amp;lt; details title=&amp;#34;Title&amp;#34; open=true &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} TitleMarkdown content#Lorem markdownum insigne&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/expand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/expand/</guid>
+      <description>Expand#Expand shortcode can help to decrease clutter on screen by hiding part of text. Expand content by clicking on it.
+Example#Default#{{&amp;lt; expand &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}} Expand↕Markdown content#Lorem markdownum insigne&amp;hellip;With Custom Label#{{&amp;lt; expand &amp;#34;Custom Label&amp;#34; &amp;#34;...&amp;#34; &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}} Custom Label...Markdown content#Lorem markdownum insigne.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/hints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/hints/</guid>
+      <description>Hints#Hint shortcode can be used as hint/alerts/notification block.
+There are 3 colors to choose: info, warning and danger.
+{{&amp;lt; hint [info|warning|danger] &amp;gt;}} **Markdown content** Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa {{&amp;lt; /hint &amp;gt;}} Example#Markdown content
+Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus TelethusaMarkdown content</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/katex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/katex/</guid>
+      <description>KaTeX#KaTeX shortcode let you render math typesetting in markdown document. See KaTeX
+Example#{{&amp;lt;/* katex [display] [class=&amp;#34;text-center&amp;#34;] */&amp;gt;}} f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi {{&amp;lt;/* /katex */&amp;gt;}} Display Mode Example#Here is some inline example: \(\pi(x)\), rendered in the same line. And below is display example, having display: block \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\]Text continues here.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/mermaid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/mermaid/</guid>
+      <description>Mermaid Chart#MermaidJS is library for generating svg charts and diagrams from text.
+Override Mermaid Initialization Config
+To override the initialization config for Mermaid, create a mermaid.json file in your assets folder!
+Example#{{&amp;lt;/* mermaid [class=&amp;#34;text-center&amp;#34;]*/&amp;gt;}} stateDiagram-v2 State1: The state with a note note right of State1 Important information! You can write notes. end note State1 --&amp;gt; State2 note left of State2 : This is the note to the left.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/pytube%E4%B8%8B%E8%BC%89yt%E5%BD%B1%E7%89%87/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/pytube%E4%B8%8B%E8%BC%89yt%E5%BD%B1%E7%89%87/</guid>
+      <description>使用pytube下載YT影片#下載pytube套件 執行terminal 在終端機貼上網址 會自動下載到桌面 程式碼如下：##conda install -c conda-forge pytube 如果一直讀不到可能需要直接在conda裡pip import os from pytube import YouTube def download_video(url, output_path): try: yt = YouTube(url) video = yt.streams.get_highest_resolution() video.download(output_path) print(&amp;#34;下載完成！&amp;#34;) except Exception as e: print(&amp;#34;發生錯誤：&amp;#34;, str(e)) # 輸入要下載的YouTube影片的URL video_url = input(&amp;#34;請輸入YouTube影片的URL_&amp;#34;) # 桌面路徑 desktop_path = os.path.expanduser(&amp;#34;~/Desktop&amp;#34;) download_video(video_url, desktop_path) </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/section/first-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/section/first-page/</guid>
+      <description>First page#Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/section/second-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/section/second-page/</guid>
+      <description>Second Page#Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/tabs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/tabs/</guid>
+      <description>Tabs#Tabs let you organize content by context, for example installation instructions for each supported platform.
+{{&amp;lt; tabs &amp;#34;uniqueid&amp;#34; &amp;gt;}} {{&amp;lt; tab &amp;#34;MacOS&amp;#34; &amp;gt;}} # MacOS Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Linux&amp;#34; &amp;gt;}} # Linux Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Windows&amp;#34; &amp;gt;}} # Windows Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabs &amp;gt;}} Example#MacOSMacOS#This is tab MacOS content.
+Lorem markdownum insigne. Olympo signis Delphis!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/%E5%BD%B1%E7%89%87%E8%87%AA%E5%8B%95%E5%A5%97%E6%A1%86/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/%E5%BD%B1%E7%89%87%E8%87%AA%E5%8B%95%E5%A5%97%E6%A1%86/</guid>
+      <description>影片自動套框功能開發#import osimport subprocessimport cv2import numpy as np# 設定影片和圖片框的資料夾路徑videos_folder = r&amp;#39;C:\Users\shadwn\Desktop\Auto_FRAMED\JP&amp;#39;frames_folder = r&amp;#39;C:\Users\shadwn\Desktop\Auto_FRAMED\JP&amp;#39;output_folder = r&amp;#39;C:\Users\shadwn\Desktop\Auto_FRAMED\JP&amp;#39;# 取得影片和圖片框的清單for video_file in os.listdir(videos_folder):if video_file.endswith(&amp;#39;.mp4&amp;#39;):video_name = os.path.splitext(video_file)[0]video_path = os.path.join(videos_folder, video_file)# 取得圖片框的寬度和高度for frame_file in os.listdir(frames_folder):if frame_file.endswith(&amp;#39;.png&amp;#39;):frame_name = os.path.splitext(frame_file)[0]frame_path = os.path.join(frames_folder, frame_file)video_output = os.path.join(output_folder, f&amp;#39;{video_name}_{frame_name }.mp4&amp;#39;)# 讀取圖片image = cv2.imread(frame_path , cv2.IMREAD_UNCHANGED)# 提取Alpha通道alpha_channel = image[:, :, 3]# 找到alpha值為0的像素的位置indices = np.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ShadwnBook.github.io/docs/%E6%96%87%E7%AB%A0/collapsed/3rd-level/4th-level/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShadwnBook.github.io/docs/%E6%96%87%E7%AB%A0/collapsed/3rd-level/4th-level/</guid>
       <description>4th Level of Menu#Caesorum illa tu sentit micat vestes papyriferi#Inde aderam facti; Theseus vis de tauri illa peream. Oculos uberaque non regisque vobis cursuque, opus venit quam vulnera. Et maiora necemque, lege modo; gestanda nitidi, vero? Dum ne pectoraque testantur.
 Venasque repulsa Samos qui, exspectatum eram animosque hinc, aut manes, Assyrii. Cupiens auctoribus pariter rubet, profana magni super nocens. Vos ius sibilat inpar turba visae iusto!</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://ShadwnBook.github.io/docs/example/hidden/</link>
+      <link>https://ShadwnBook.github.io/docs/%E6%96%87%E7%AB%A0/hidden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ShadwnBook.github.io/docs/example/hidden/</guid>
+      <guid>https://ShadwnBook.github.io/docs/%E6%96%87%E7%AB%A0/hidden/</guid>
       <description>This page is hidden in menu#Quondam non pater est dignior ille Eurotas#Latent te facies#Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus, frementes, qui in vel. Hippotades Peleus pennas conscia cuiquam Caeneus quas.
 Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta Soror ego Luctus linguam saxa ultroque prior Tatiumque inquit Saepe liquitur subita superata dederat Anius sudor Cum honorum Latona#O fallor in sustinui iussorum equidem.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://ShadwnBook.github.io/docs/example/pytube%E4%B8%8B%E8%BC%89yt%E5%BD%B1%E7%89%87/</link>
+      <link>https://ShadwnBook.github.io/docs/%E6%96%87%E7%AB%A0/%E5%8D%A1%E7%88%BE%E7%B6%AD%E8%AB%BE%E8%AA%95%E8%BE%B0100%E5%91%A8%E5%B9%B4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ShadwnBook.github.io/docs/example/pytube%E4%B8%8B%E8%BC%89yt%E5%BD%B1%E7%89%87/</guid>
-      <description>使用pytube下載YT影片#下載pytube套件 執行terminal 在終端機貼上網址 會自動下載到桌面 程式碼如下：##conda install -c conda-forge pytube 如果一直讀不到可能需要直接在conda裡pip import os from pytube import YouTube def download_video(url, output_path): try: yt = YouTube(url) video = yt.streams.get_highest_resolution() video.download(output_path) print(&amp;#34;下載完成！&amp;#34;) except Exception as e: print(&amp;#34;發生錯誤：&amp;#34;, str(e)) # 輸入要下載的YouTube影片的URL video_url = input(&amp;#34;請輸入YouTube影片的URL_&amp;#34;) # 桌面路徑 desktop_path = os.path.expanduser(&amp;#34;~/Desktop&amp;#34;) download_video(video_url, desktop_path) </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ShadwnBook.github.io/docs/example/%E5%8D%A1%E7%88%BE%E7%B6%AD%E8%AB%BE%E8%AA%95%E8%BE%B0100%E5%91%A8%E5%B9%B4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ShadwnBook.github.io/docs/example/%E5%8D%A1%E7%88%BE%E7%B6%AD%E8%AB%BE%E8%AA%95%E8%BE%B0100%E5%91%A8%E5%B9%B4/</guid>
+      <guid>https://ShadwnBook.github.io/docs/%E6%96%87%E7%AB%A0/%E5%8D%A1%E7%88%BE%E7%B6%AD%E8%AB%BE%E8%AA%95%E8%BE%B0100%E5%91%A8%E5%B9%B4/</guid>
       <description>卡爾維諾誕辰100周年 | 1985的訃告#若死亡也像他處理的故事一般「輕盈」，相信用他的訃告為他慶生紀念，應該是幽默、調皮的笑話吧？
 生日快樂！遲到100年又1天的祝福。#導語#伊塔羅·卡爾維諾，意大利當代傑出小說家，於今天清晨在意大利西耶納的一家醫院因9月6日發生的中風而去世，享年61歲。
 他是世界上重要的小說家之一，本應在秋天於哈佛大學發表著名的諾頓講座（Norton lectures）。
@@ -192,19 +272,10 @@ Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta So
     
     <item>
       <title></title>
-      <link>https://ShadwnBook.github.io/docs/example/%E5%BD%B1%E7%89%87%E8%87%AA%E5%8B%95%E5%A5%97%E6%A1%86/</link>
+      <link>https://ShadwnBook.github.io/docs/%E6%96%87%E7%AB%A0/%E5%BF%83%E7%90%86%E7%AD%86%E8%A8%98/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ShadwnBook.github.io/docs/example/%E5%BD%B1%E7%89%87%E8%87%AA%E5%8B%95%E5%A5%97%E6%A1%86/</guid>
-      <description>影片自動套框功能開發#import osimport subprocessimport cv2import numpy as np# 設定影片和圖片框的資料夾路徑videos_folder = r&amp;#39;C:\Users\shadwn\Desktop\Auto_FRAMED\JP&amp;#39;frames_folder = r&amp;#39;C:\Users\shadwn\Desktop\Auto_FRAMED\JP&amp;#39;output_folder = r&amp;#39;C:\Users\shadwn\Desktop\Auto_FRAMED\JP&amp;#39;# 取得影片和圖片框的清單for video_file in os.listdir(videos_folder):if video_file.endswith(&amp;#39;.mp4&amp;#39;):video_name = os.path.splitext(video_file)[0]video_path = os.path.join(videos_folder, video_file)# 取得圖片框的寬度和高度for frame_file in os.listdir(frames_folder):if frame_file.endswith(&amp;#39;.png&amp;#39;):frame_name = os.path.splitext(frame_file)[0]frame_path = os.path.join(frames_folder, frame_file)video_output = os.path.join(output_folder, f&amp;#39;{video_name}_{frame_name }.mp4&amp;#39;)# 讀取圖片image = cv2.imread(frame_path , cv2.IMREAD_UNCHANGED)# 提取Alpha通道alpha_channel = image[:, :, 3]# 找到alpha值為0的像素的位置indices = np.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ShadwnBook.github.io/docs/example/%E5%BF%83%E7%90%86%E7%AD%86%E8%A8%98/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ShadwnBook.github.io/docs/example/%E5%BF%83%E7%90%86%E7%AD%86%E8%A8%98/</guid>
+      <guid>https://ShadwnBook.github.io/docs/%E6%96%87%E7%AB%A0/%E5%BF%83%E7%90%86%E7%AD%86%E8%A8%98/</guid>
       <description>心理學筆記#跟別人發生衝突時，如果有太多遲疑，會誘惑別人攻擊你，這不只是他人的錯，你的潛意識可能在誘惑別人攻擊你
 為什麼你的潛意識要對自己做這種缺德事呢？因為沒辦法誘惑別人愛你。
 別人對你太好的時候，你天然的產生一種內疚，這種內疚，源自於你從來沒被人好好對待過。
@@ -222,126 +293,42 @@ Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta So
     
     <item>
       <title></title>
-      <link>https://ShadwnBook.github.io/docs/shortcodes/buttons/</link>
+      <link>https://ShadwnBook.github.io/posts/%E5%93%B2%E5%AD%B8%E8%88%87%E5%BF%83%E7%90%86%E9%9B%BB%E5%BD%B1%E6%8E%A8%E8%96%A6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ShadwnBook.github.io/docs/shortcodes/buttons/</guid>
-      <description>Buttons#Buttons are styled links that can lead to local page or external link.
-Example#{{&amp;lt; button relref=&amp;#34;/&amp;#34; [class=&amp;#34;...&amp;#34;] &amp;gt;}}Get Home{{&amp;lt; /button &amp;gt;}} {{&amp;lt; button href=&amp;#34;https://github.com/alex-shpak/hugo-book&amp;#34; &amp;gt;}}Contribute{{&amp;lt; /button &amp;gt;}} Get HomeContribute</description>
+      <guid>https://ShadwnBook.github.io/posts/%E5%93%B2%E5%AD%B8%E8%88%87%E5%BF%83%E7%90%86%E9%9B%BB%E5%BD%B1%E6%8E%A8%E8%96%A6/</guid>
+      <description>哲學#柏林蒼穹下 Wings of Desire (1987) 世界旦夕之間 World on a Wire (1973) 第七封印 Det sjunde inseglet (1957) 五百年后 THX 1138 (1970) 都靈之馬 The Turin Horse 貝拉塔爾 鯨魚馬戲團 貝拉·塔爾 一條安達盧來的狗 Un Chien Andalou (1929) 漢娜鄂蘭：真理無懼 Hannah Arendt 傳記電影 花神咖啡館的情人們 The Pervert&amp;rsquo;s Guide to Ideology The Pervert&amp;rsquo;s Guide to Cinema 内陸帝國 Inland Empire (2006) 荒蠻故事 Relatos salvajes (2014) 99法郎 99 Francs (2007) 巴頓·芬克 Barton Fink (1991) 布來恩的一生 Life of Brian (1979) 放大 Blow-Up (1966) 蘇格拉底 Socrates Roberto Rossellini（1971） 源泉 King Vidor（1949） 散步的侵略者 散歩する侵略者 (2017) 伊曼努爾·康德最後的日子 1992 很高的男人快樂嗎？ Is the Man Who is Tall Happy?</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://ShadwnBook.github.io/docs/shortcodes/columns/</link>
+      <link>https://ShadwnBook.github.io/posts/%E7%A7%91%E5%B9%BB%E6%96%87%E5%AD%B8%E6%8E%A8%E8%96%A6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ShadwnBook.github.io/docs/shortcodes/columns/</guid>
-      <description>Columns#Columns help organize shorter pieces of content horizontally for readability.
-{{&amp;lt; columns &amp;gt;}} &amp;lt;!-- begin columns block --&amp;gt; # Left Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Mid Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Right Content Lorem markdownum insigne... {{&amp;lt; /columns &amp;gt;}} Example#Left Content#Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter!</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ShadwnBook.github.io/docs/shortcodes/details/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ShadwnBook.github.io/docs/shortcodes/details/</guid>
-      <description>Details#Details shortcode is a helper for details html5 element. It is going to replace expand shortcode.
-Example#{{&amp;lt; details &amp;#34;Title&amp;#34; [open] &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} {{&amp;lt; details title=&amp;#34;Title&amp;#34; open=true &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} TitleMarkdown content#Lorem markdownum insigne&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ShadwnBook.github.io/docs/shortcodes/expand/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ShadwnBook.github.io/docs/shortcodes/expand/</guid>
-      <description>Expand#Expand shortcode can help to decrease clutter on screen by hiding part of text. Expand content by clicking on it.
-Example#Default#{{&amp;lt; expand &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}} Expand↕Markdown content#Lorem markdownum insigne&amp;hellip;With Custom Label#{{&amp;lt; expand &amp;#34;Custom Label&amp;#34; &amp;#34;...&amp;#34; &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}} Custom Label...Markdown content#Lorem markdownum insigne.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ShadwnBook.github.io/docs/shortcodes/hints/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ShadwnBook.github.io/docs/shortcodes/hints/</guid>
-      <description>Hints#Hint shortcode can be used as hint/alerts/notification block.
-There are 3 colors to choose: info, warning and danger.
-{{&amp;lt; hint [info|warning|danger] &amp;gt;}} **Markdown content** Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa {{&amp;lt; /hint &amp;gt;}} Example#Markdown content
-Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus TelethusaMarkdown content</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ShadwnBook.github.io/docs/shortcodes/katex/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ShadwnBook.github.io/docs/shortcodes/katex/</guid>
-      <description>KaTeX#KaTeX shortcode let you render math typesetting in markdown document. See KaTeX
-Example#{{&amp;lt;/* katex [display] [class=&amp;#34;text-center&amp;#34;] */&amp;gt;}} f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi {{&amp;lt;/* /katex */&amp;gt;}} Display Mode Example#Here is some inline example: \(\pi(x)\), rendered in the same line. And below is display example, having display: block \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\]Text continues here.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ShadwnBook.github.io/docs/shortcodes/mermaid/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ShadwnBook.github.io/docs/shortcodes/mermaid/</guid>
-      <description>Mermaid Chart#MermaidJS is library for generating svg charts and diagrams from text.
-Override Mermaid Initialization Config
-To override the initialization config for Mermaid, create a mermaid.json file in your assets folder!
-Example#{{&amp;lt;/* mermaid [class=&amp;#34;text-center&amp;#34;]*/&amp;gt;}} stateDiagram-v2 State1: The state with a note note right of State1 Important information! You can write notes. end note State1 --&amp;gt; State2 note left of State2 : This is the note to the left.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ShadwnBook.github.io/docs/shortcodes/section2/firstpage/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ShadwnBook.github.io/docs/shortcodes/section2/firstpage/</guid>
-      <description>Nothing here#</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ShadwnBook.github.io/docs/shortcodes/section2/second-page/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ShadwnBook.github.io/docs/shortcodes/section2/second-page/</guid>
-      <description>第二章#Lorem ipsum dolor sit amet, 假裝是第二章 consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ShadwnBook.github.io/docs/shortcodes/section/first-page/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ShadwnBook.github.io/docs/shortcodes/section/first-page/</guid>
-      <description>First page#Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ShadwnBook.github.io/docs/shortcodes/section/second-page/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ShadwnBook.github.io/docs/shortcodes/section/second-page/</guid>
-      <description>Second Page#Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ShadwnBook.github.io/docs/shortcodes/tabs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ShadwnBook.github.io/docs/shortcodes/tabs/</guid>
-      <description>Tabs#Tabs let you organize content by context, for example installation instructions for each supported platform.
-{{&amp;lt; tabs &amp;#34;uniqueid&amp;#34; &amp;gt;}} {{&amp;lt; tab &amp;#34;MacOS&amp;#34; &amp;gt;}} # MacOS Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Linux&amp;#34; &amp;gt;}} # Linux Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Windows&amp;#34; &amp;gt;}} # Windows Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabs &amp;gt;}} Example#MacOSMacOS#This is tab MacOS content.
-Lorem markdownum insigne. Olympo signis Delphis!</description>
+      <guid>https://ShadwnBook.github.io/posts/%E7%A7%91%E5%B9%BB%E6%96%87%E5%AD%B8%E6%8E%A8%E8%96%A6/</guid>
+      <description>書單#羅伯特·海因萊因（13本）：《星船傘兵》，《嚴厲的月亮》，《異鄉異客》，《雙星》，《時間足夠你愛》，《傀儡主人》，《出賣月亮的人》，《進入盛夏之門》，《瑪士撒拉之子》，《地球上的綠色山丘》，《斯通一家闖太空》，《穿墻貓》，Orphans of the Sky
+菲利普·K·迪克（12本）：《仿生人會夢見電子羊嗎？》，《尤比克》，《流吧！我的眼淚》，《少數派報告》，《高堡奇人》，《帕莫·艾德裡奇的三處聖痕》，《泰坦棋手》，《死亡迷局》，《記憶裂痕》，《血錢博士》，《倒數第二個真相》，Solar Lottery
+阿瑟·克拉克（9本）：《與羅摩相會》，《神的九十億個名字》，《遙遠的地球之歌》，《童年的終結》，《地光》，《2001：太空漫游》，《月海沉船》，《天堂的噴泉》，《城市與群星》
+艾薩克·阿西莫夫（9本）：《永恆的終結》，《神們自己》，《基地》，《基地與帝國》，《第二基地》，《基地前奏》，《邁向基地》，《基地邊緣》，《基地與地球》
+尼爾·斯蒂芬森（7本）：《雪崩》，《七夏娃》三部曲，《編碼寶典》三部曲 奧森·斯科特·卡德（6本）：《沃辛傳奇》，《背叛之星》，《安德的遊戲》，《死者代言人》，《安德的影子》，《大師的盛宴》
+短篇集（5本）：《微宇宙的上帝》，《Ⅰ竊星：100：科幻之書》，《Ⅱ異站：100：科幻之書》，《Ⅲ沙王：100：科幻之書》，《Ⅳ詩云：100：科幻之書》
+威廉·吉布森（5本）：《神經喚術士》，《全息玫瑰碎片》，《虛擬偶像愛朵露》，《零伯爵》，《重啟蒙娜麗莎》
+弗諾·文奇（5本）：《彩虹盡頭》，《真名實姓》，《深淵上的火》，《天淵》，《天空的孩子》
+羅傑·澤拉茲尼（4本）：《光明王》，《趁生命氣息逗留》，《臉上的門，口中的燈》，《光與暗的生靈》
+丹·西蒙斯（4本）：《海伯利安》，《海伯利安的隕落》，《安迪密恩》，《安迪密恩的覺醒》
+厄休拉·勒古恩（4本）：《黑暗的左手》，《失去一切的人》，《世界的詞語是森林》，《變化的位面》
+金·斯坦利·羅賓遜（3本）：《紅火星》，《綠火星》，《藍火星》
+赫伯特·喬治·威爾斯（2本）：《時間機器》，《第一次登上月亮的人》
+雷·布拉德伯裡（2本）：《火星紀事》，《華氏451》
+喬治·R.R.馬丁（2本）：《夜行者》，《光逝》
+羅伯特·威爾森（1本）：《時間迴旋》
+小沃爾特·M·米勒（1本）：《萊博維茨的讚歌》
+斯特魯伽茨基兄弟（1本）：《路邊野餐》
+斯塔尼斯拉夫·萊姆（1本）：《索拉里斯星》、《機器人大師》
+弗蘭克·赫伯特：《沙丘》、《沙丘救世主》
+喬治·奧威爾（1本）：《一九八四》
+羅伯特·福沃德（1本）：《龍蛋》
+姜丰楠（1本）：《呼吸》、《你一生的故事》</description>
     </item>
     
   </channel>

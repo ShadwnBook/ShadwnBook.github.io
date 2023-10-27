@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="zh-tw" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="當我們在談論聲音時我們在談論什麼#赫茲#常簡稱赫，是頻率的國際單位制單位，表示每一秒週期性事件發生的次數。
+赫茲是以首個用實驗驗證電磁波存在的科學家海因里希·赫茲命名，常用於描述正弦波、樂音、無線電通訊以及電腦時脈頻率等。 赫茲的定義為每一秒週期性事件發生的次數，而國際度量衡委員會將秒定義為：銫133原子基態的兩個超精細能階間躍遷對應輻射的9,192,631,770個週期的持續時間，因此銫133原子基態的兩個超精細能階間躍遷對應輻射的頻率被定義為9,192,631,770赫茲。
+振動#振動是指一個物體相對於靜止參照物或處於平衡狀態的物體的往復運動。 由於往復運動具有週期性，振動可以用頻率描述。一種典型的振動是聲波。聲波是由空氣分子作週期性振動產生的，振動的頻率即是聲音的頻率。 對於不同頻率的聲音，人們會聽到不同的音高。音樂中不同音高的音符的基本頻率對應赫茲數是固定的，例如中央C上方的A音的基頻是440赫茲。而D音，每秒鐘震盪的次數變少了。 嬰兒能聽見20赫茲至20000赫茲的聲音，一個普通的成年人可以聽見20赫茲至16000赫茲的聲音
+其他物理振動，例如分子振動的頻率可高至兆赫茲的數量級。
+信號都加起來了該怎麼再次把全部的聲波拆開呢？ 如果把水倒進河流裡，要怎麼再次找到同一碗水？或者另一個簡單例子，捏泥巴。 將大地抓出來的兩塊土搓揉成團，要怎麼找出原本的兩塊土呢？
+傅立葉轉換#【纏繞頻率與信號頻率相等時】 我們有兩種不同的頻率，一個是信號頻率；一個是纏繞頻率。 關注的點兩個：其一是這道波每都為時間內最高點的出現數量，另一個是兩個最高點的時間間隔多久。
+當我們找到這兩個波的「個性」時，我們能知道關注的時間內，平均多久，高峰就出現一次。
+人類呢？人聲都是泛音，並不是純音，所以你總以為自己知道自己的聲音是你自己的，純屬神秘的巧合。 心跳是一種非正弦的週期性現象，亦可用頻率描述。
+提一下短篇裡用「波」治療癲癇的故事。 將壓力差過高的壓低，將低的提昇，夢境、昏厥、快速動眼期等等">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="" />
+<meta property="og:description" content="當我們在談論聲音時我們在談論什麼#赫茲#常簡稱赫，是頻率的國際單位制單位，表示每一秒週期性事件發生的次數。
+赫茲是以首個用實驗驗證電磁波存在的科學家海因里希·赫茲命名，常用於描述正弦波、樂音、無線電通訊以及電腦時脈頻率等。 赫茲的定義為每一秒週期性事件發生的次數，而國際度量衡委員會將秒定義為：銫133原子基態的兩個超精細能階間躍遷對應輻射的9,192,631,770個週期的持續時間，因此銫133原子基態的兩個超精細能階間躍遷對應輻射的頻率被定義為9,192,631,770赫茲。
+振動#振動是指一個物體相對於靜止參照物或處於平衡狀態的物體的往復運動。 由於往復運動具有週期性，振動可以用頻率描述。一種典型的振動是聲波。聲波是由空氣分子作週期性振動產生的，振動的頻率即是聲音的頻率。 對於不同頻率的聲音，人們會聽到不同的音高。音樂中不同音高的音符的基本頻率對應赫茲數是固定的，例如中央C上方的A音的基頻是440赫茲。而D音，每秒鐘震盪的次數變少了。 嬰兒能聽見20赫茲至20000赫茲的聲音，一個普通的成年人可以聽見20赫茲至16000赫茲的聲音
+其他物理振動，例如分子振動的頻率可高至兆赫茲的數量級。
+信號都加起來了該怎麼再次把全部的聲波拆開呢？ 如果把水倒進河流裡，要怎麼再次找到同一碗水？或者另一個簡單例子，捏泥巴。 將大地抓出來的兩塊土搓揉成團，要怎麼找出原本的兩塊土呢？
+傅立葉轉換#【纏繞頻率與信號頻率相等時】 我們有兩種不同的頻率，一個是信號頻率；一個是纏繞頻率。 關注的點兩個：其一是這道波每都為時間內最高點的出現數量，另一個是兩個最高點的時間間隔多久。
+當我們找到這兩個波的「個性」時，我們能知道關注的時間內，平均多久，高峰就出現一次。
+人類呢？人聲都是泛音，並不是純音，所以你總以為自己知道自己的聲音是你自己的，純屬神秘的巧合。 心跳是一種非正弦的週期性現象，亦可用頻率描述。
+提一下短篇裡用「波」治療癲癇的故事。 將壓力差過高的壓低，將低的提昇，夢境、昏厥、快速動眼期等等" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/%E7%95%B6%E6%88%91%E5%80%91%E5%9C%A8%E8%AB%87%E8%AB%96%E8%81%B2%E9%9F%B3%E6%99%82%E6%88%91%E5%80%91%E5%9C%A8%E8%AB%87%E8%AB%96%E4%BB%80%E9%BA%BC/" /><meta property="article:section" content="docs" />
+
+
+<title>當我們在談論聲音時我們在談論什麼 | Shadwn Blog</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" >
+<link rel="stylesheet" href="/book.min.4f0117e74e5337280f18eb9641eae520cb4b25adcf5dd64fafad4664145a5957.css" integrity="sha256-TwEX505TNygPGOuWQerlIMtLJa3PXdZPr61GZBRaWVc=" crossorigin="anonymous"><!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/"><span>Shadwn Blog</span>
+  </a>
+</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <span>文章</span>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/%E6%96%87%E7%AB%A0/%E7%B5%90%E6%A7%8B%E4%B8%BB%E7%BE%A9/" class="">結構主義</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/%E6%96%87%E7%AB%A0/%E6%B3%A2%E8%B5%AB%E5%A3%AB%E5%B0%88%E9%A1%8C/" class="">波赫士專題</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/%E6%96%87%E7%AB%A0/%E6%B3%A2%E8%B5%AB%E5%A3%AB%E5%B0%88%E9%A1%8C/%E6%B3%A2%E8%B5%AB%E5%A3%AB_%E7%A6%AE%E7%89%A9/" class="">波赫士《禮物》</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/%E6%96%87%E7%AB%A0/%E5%8D%A1%E7%88%BE%E7%B6%AD%E8%AB%BE%E8%AA%95%E8%BE%B0100%E5%91%A8%E5%B9%B4/" class="">卡爾維諾誕辰100周年</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/%E6%96%87%E7%AB%A0/%E5%BF%83%E7%90%86%E7%AD%86%E8%A8%98/" class="">心理筆記</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li class="book-section-flat" >
+          
+  
+  
+
+  
+    <span>作品</span>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <input type="checkbox" id="section-e81122d6361d2ad759472bf978c05617" class="toggle"  />
+    <label for="section-e81122d6361d2ad759472bf978c05617" class="flex justify-between">
+      <a href="/docs/%E4%BD%9C%E5%93%81/%E6%8D%8F%E6%B3%A5%E5%B7%B4/" class="">捏泥巴</a>
+    </label>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/%E4%BD%9C%E5%93%81/%E6%8D%8F%E6%B3%A5%E5%B7%B4/00/" class="">00. 給世界與你的搖籃曲</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/%E4%BD%9C%E5%93%81/%E6%8D%8F%E6%B3%A5%E5%B7%B4/01/" class="">01. 我的意義，在我之外</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/%E4%BD%9C%E5%93%81/%E6%8D%8F%E6%B3%A5%E5%B7%B4/02/" class="">02. 行列式與鏡銘石</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/%E4%BD%9C%E5%93%81/%E6%8D%8F%E6%B3%A5%E5%B7%B4/03/" class="">03. 論「美」</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/%E4%BD%9C%E5%93%81/%E6%8D%8F%E6%B3%A5%E5%B7%B4/04/" class="">04. 成熟的長、寬、高</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/%E4%BD%9C%E5%93%81/%E7%A6%B1%E7%A5%9D%E6%A9%9Fcodereview/" class="">禱祝機 Code Review</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/%E4%BD%9C%E5%93%81/pytube%E4%B8%8B%E8%BC%89yt%E5%BD%B1%E7%89%87/" class="">Pytube下載 Yt影片</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/%E4%BD%9C%E5%93%81/%E5%BD%B1%E7%89%87%E8%87%AA%E5%8B%95%E5%A5%97%E6%A1%86/" class="">影片自動套框</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+  
+<ul>
+  
+  <li>
+    <a href="/posts/"  >
+        遺文
+      </a>
+  </li>
+  
+</ul>
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>當我們在談論聲音時我們在談論什麼</strong>
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#赫茲">赫茲</a></li>
+    <li><a href="#振動">振動</a></li>
+    <li><a href="#傅立葉轉換">傅立葉轉換</a></li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown"><h1 id="當我們在談論聲音時我們在談論什麼">
+  當我們在談論聲音時我們在談論什麼
+  <a class="anchor" href="#%e7%95%b6%e6%88%91%e5%80%91%e5%9c%a8%e8%ab%87%e8%ab%96%e8%81%b2%e9%9f%b3%e6%99%82%e6%88%91%e5%80%91%e5%9c%a8%e8%ab%87%e8%ab%96%e4%bb%80%e9%ba%bc">#</a>
+</h1>
+<h2 id="赫茲">
+  赫茲
+  <a class="anchor" href="#%e8%b5%ab%e8%8c%b2">#</a>
+</h2>
+<p>常簡稱赫，是頻率的國際單位制單位，表示每一秒週期性事件發生的次數。</p>
+<p>赫茲是以首個用實驗驗證電磁波存在的科學家海因里希·赫茲命名，常用於描述正弦波、樂音、無線電通訊以及電腦時脈頻率等。 赫茲的定義為每一秒週期性事件發生的次數，而國際度量衡委員會將秒定義為：銫133原子基態的兩個超精細能階間躍遷對應輻射的9,192,631,770個週期的持續時間，因此銫133原子基態的兩個超精細能階間躍遷對應輻射的頻率被定義為9,192,631,770赫茲。</p>
+<h2 id="振動">
+  振動
+  <a class="anchor" href="#%e6%8c%af%e5%8b%95">#</a>
+</h2>
+<p>振動是指一個物體相對於靜止參照物或處於平衡狀態的物體的往復運動。
+由於往復運動具有週期性，振動可以用頻率描述。一種典型的振動是聲波。聲波是由空氣分子作週期性振動產生的，振動的頻率即是聲音的頻率。
+對於不同頻率的聲音，人們會聽到不同的音高。音樂中不同音高的音符的基本頻率對應赫茲數是固定的，例如中央C上方的A音的基頻是440赫茲。而D音，每秒鐘震盪的次數變少了。
+嬰兒能聽見20赫茲至20000赫茲的聲音，一個普通的成年人可以聽見20赫茲至16000赫茲的聲音</p>
+<p>其他物理振動，例如分子振動的頻率可高至兆赫茲的數量級。</p>
+<p>信號都加起來了該怎麼再次把全部的聲波拆開呢？
+如果把水倒進河流裡，要怎麼再次找到同一碗水？或者另一個簡單例子，捏泥巴。
+將大地抓出來的兩塊土搓揉成團，要怎麼找出原本的兩塊土呢？</p>
+<h2 id="傅立葉轉換">
+  傅立葉轉換
+  <a class="anchor" href="#%e5%82%85%e7%ab%8b%e8%91%89%e8%bd%89%e6%8f%9b">#</a>
+</h2>
+<p>【纏繞頻率與信號頻率相等時】
+我們有兩種不同的頻率，一個是信號頻率；一個是纏繞頻率。
+關注的點兩個：其一是這道波每都為時間內最高點的出現數量，另一個是兩個最高點的時間間隔多久。</p>
+<p>當我們找到這兩個波的「個性」時，我們能知道關注的時間內，平均多久，高峰就出現一次。</p>
+<p>人類呢？人聲都是泛音，並不是純音，所以你總以為自己知道自己的聲音是你自己的，純屬神秘的巧合。
+心跳是一種非正弦的週期性現象，亦可用頻率描述。</p>
+<p>提一下短篇裡用「波」治療癲癇的故事。
+將壓力差過高的壓低，將低的提昇，夢境、昏厥、快速動眼期等等</p>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#赫茲">赫茲</a></li>
+    <li><a href="#振動">振動</a></li>
+    <li><a href="#傅立葉轉換">傅立葉轉換</a></li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

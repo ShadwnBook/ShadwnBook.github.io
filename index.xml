@@ -55,6 +55,25 @@
     
     <item>
       <title></title>
+      <link>https://ShadwnBook.github.io/posts/%E9%9A%B1%E5%96%BB%E6%AF%94%E5%96%BB%E6%9A%97%E5%96%BB/</link>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShadwnBook.github.io/posts/%E9%9A%B1%E5%96%BB%E6%AF%94%E5%96%BB%E6%9A%97%E5%96%BB/</guid>
+      <description>隱喻、比喻、暗喻的差異#三種常見的修辭手法，它們都用來比較兩種事物，但使用的方法和目的不同。
+我【1：喻體】彷彿【2：喻詞】屎【3：喻依】一般。 比喻（明喻）：【1】【2】【3】全部出現。
+借喻：【1】【2】【3】中只留【1】，例如—狡兔有三窟、女人四十一枝花、一朵鮮花插在牛糞上。
+略喻：【1】【2】【3】中省略【2】，例如—我，屎。
+隱喻 ( 暗喻 )：【2】從喻詞變繫詞。例如—每個字都是死去的隱喻。（波赫士）
+借喻與象徵的區別：#象徵是以物示意，以具體的表示抽象的。而借喻是以物喻物，以具體的比方具體的。
+借喻與借代的區別：#重點是本體。
+魯迅《故鄉》中楊二嫂形象的描寫和夏衍《包身工》中女工形象描寫，都是區分借喻與借代的典型事例：
+①（楊二嫂）正像畫圖儀器裏一個細腳伶仃的圓規。②我也沒見過這圓規式的姿勢。③然而圓規很不平，顯出鄙夷的神色。④圓規一面憤憤的轉回身，一面絮絮的説，慢慢向外走。 前兩處，是説明楊二嫂細腳伶仃的具體形象，作者着眼於具體形象的相似，毫無疑問屬於比喻；
+後兩處，因有前兩個比喻為基礎，作者與讀者已經把圓規和楊二嫂緊密聯繫在了一起，圓規自然成了和楊二嫂相關的東西。
+作者用圓規來代替楊二嫂目的已不再是打比方，而是為了對楊二嫂換一個稱呼，當屬借代。</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/%E7%A6%B1%E7%A5%9D%E6%A9%9Fcodereview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -482,16 +501,6 @@ Example#{{&amp;lt; details &amp;#34;Title&amp;#34; [open] &amp;gt;}} ## Markdo
     
     <item>
       <title></title>
-      <link>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/expand/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/expand/</guid>
-      <description>Expand#Expand shortcode can help to decrease clutter on screen by hiding part of text. Expand content by clicking on it.
-Example#Default#{{&amp;lt; expand &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}} Expand↕Markdown content#Lorem markdownum insigne&amp;hellip;With Custom Label#{{&amp;lt; expand &amp;#34;Custom Label&amp;#34; &amp;#34;...&amp;#34; &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}} Custom Label...Markdown content#Lorem markdownum insigne.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/hints/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -588,6 +597,26 @@ Lorem markdownum insigne. Olympo signis Delphis!</description>
 犬儒認為人是理性動物，可以通過嚴格訓練並按照自然來幸福地生活，同時應該摒棄傳統欲望。
 甚至可以在公共場合公然蔑視傳統規範，轉而追求一種沒有任何財產的簡單生活。
 到19世紀，人們強調犬儒主義的消極面向，導致犬儒主義在現代理解成普遍不信任他人動機和行為的態度。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/%E5%A5%BD%E5%AD%B8%E7%94%9F%E6%97%A5%E8%A8%98/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/%E5%A5%BD%E5%AD%B8%E7%94%9F%E6%97%A5%E8%A8%98/</guid>
+      <description>好學生日記#短文玩梗而已
+Expand↕存在主義代課#沙特老師代我們的課，聽隔壁的女同學說他很帥。我心中自動起了一陣反感。
+那男人走進教室，終於讓我們兩個同時奪到千間一刻，對上眼。
+「你真讓我想吐。」他說。 「你真讓我想吐。」同時，但我沒出口。
+至此，我們心中的牆都倒了。 我忘不了他點名時念到我名子時的那股恨意。
+他的恨不在我覺得他噁心，而在我儘可能裝作他是個體面人。
+倒是他確立了我；我卻不反饋他在場的證明。
+：：：&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;I∧U&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;：：：
+「陳穎辰，你叫什麼名子？」
+他在我被他課後輔導時，又給了我機會。我這次學乖了。
+「我是，你所不是的。」
+刻奇而滿分的回答，我被他轉到黑格爾那班。 「我他者的，你真是地獄。」他說。「你的貓頭鷹，黃昏後才起飛了。」</description>
     </item>
     
     <item>
@@ -738,6 +767,13 @@ Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta So
 埃施的可能性 : 失去了上帝的時代的一種狂熱。既然所有的價值都蒙上了面紗，那麼一切都可以被看作是價值。
 正義、秩序：埃施或者在工會鬥爭中尋找它們，或者到宗教中去尋找，今天在警察權力中尋找
 帕斯諾夫的可能性 : 對繼承下來的價值的情感依賴，依賴代代相傳的殘留物，這就是約阿欽·帕斯諾夫的態度。帕斯諾夫是通過制服這一題材而被引入小說的。敘述者解釋說，以前，教會跟最高審判官上帝一樣，統治著人。神袍就是上天權力的符號，而軍官的制服、法官的長袍則代表了世俗權力。
+對《安那卡列妮娜》的觀察#當時他們已經靜默了很久，女人突然開始說起蘑菇來了。這完全是違揹她意願的，意想不到的。隨後，又是一陣靜默，男人掂量著字眼想表白，可是他沒有談愛情，他也跟她談蘑菇。在回家的路上，他們還在談著蘑菇，一點辦法也沒有，心中充滿了絕望，因為他們知道，他們永遠都不會談到愛情了。
+回去之後，男人對自己說，他之所以沒有談愛情是因為他死去的情婦，他無法背叛對她的追憶。
+但我們清楚知道：這並非真正的理由，他找它出來只是為了安慰自己。安慰自己？
+是的。因為失去愛情總得有個理由。如果毫無理由地失去，無法原諒自己的。
+維特愛上了他朋友的妻子。他不能背叛朋友，他又不能放棄他的愛，所以他自殺。這自殺就像一道數學方程式一樣明晰( 我說的：無聊 )。
+但安娜·卡列寧娜為什麼自殺呢？她沒有作出決定就臥軌自盡了。應當說是決定抓住了安娜。決定突如其來地抓住了安娜。跟那位想談愛情卻談起了蘑菇的男人一樣，安娜是「出於一種意想不到的衝動」才這麼做的。這並不意味著她這麼做沒有意義。只是這一意義處於從理性上可以把握的因果關係之外。
+托爾斯泰不得不用喬伊斯式的內心獨白（這在小說史上是第一次）
 《不朽》筆記#關於輕 戰爭只能存在於悲劇世界；從歷史之初起人類就生活在悲劇中，無法自拔。只有以輕浮對抗悲劇，這個時代才得以結束。
 貝多芬的第九交響曲將只剩下為貝拉香水廣告作伴奏的那歌頌歡樂的四個節拍。我並不因此而感到羞恥。
 悲劇將像一個手捂著心口、用沙啞的聲音背誦臺詞的蹩腳演員那樣被逐出世界。輕浮是一種根本性的減肥療法。
@@ -749,6 +785,24 @@ Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta So
 （這沒有什麼好讓我們驚奇的：當涉及到「Wahre Liebe」，真正的愛情時，我們已經知道，被愛的人並不重要）。
 孤獨的必要 自打結婚以後，阿涅絲便不得不放棄了孤獨的樂趣。
 強迫別人回答和必須回答的人之間的不平等。是作者所謂的「第十一戒」</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ShadwnBook.github.io/posts/_%E7%9A%84_%E4%B9%8B%E6%9B%B8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShadwnBook.github.io/posts/_%E7%9A%84_%E4%B9%8B%E6%9B%B8/</guid>
+      <description>《的》#哥倫布的蛋#在1893年的芝加哥哥倫布紀念博覽會上，發明家尼古拉·特斯拉為演示他修建的交流電設備而創造哥倫布蛋，用來展示和解釋旋轉磁場模型和異步電動機的原理。
+哥倫布蛋是一顆雞蛋狀的銅塊。在旋轉磁場中，蛋以其長軸旋轉，最終因陀螺效應而站立。
+笛卡爾的惡魔####　維跟斯坦的甲蟲
+###　薛丁格的貓
+###　麥克斯韋妖
+###　拉普拉斯的惡魔
+查理曼大帝的戒指#他人的地獄#沙特在《密室》中的最後一句，常被引用也常被誤解。
+No exit, and three other plays Sartre, p.275, (1989) , 1-46:45 沙特後來解釋，這句話不是說他人帶有地獄的特質，而是說當我們「死後」，就在別人的目光中凝固起來，不能再對他們的詮釋做絲毫對抗。
+我們生前仍能做一些事調整給別人的印象，死後這種自由便消失，我們被埋葬在別人的記憶和感覺中。 死後，你失去詮釋自我的權力。
+牛頓的蘋果#密涅瓦的貓頭鷹#來自黑格爾《法哲學原理》 08/2020, (2020) , 序言, p.14 關於教導世界應該怎樣，也必須略為談一談。在這方面，無論如何哲學總是來得太遲。哲學作為有關世界的思想，要直到現實結束其形成過程並完成其自身之後，才會出現。概念所教導的也必然就是歷史所呈示的。這就是說，直到現實成熟了，理想的東西才會對實在的東西顯現出來，並在把握了這同一個實在世界的實體之後，才把它建成為一個理智王國的型態。當哲學把它的灰色繪成灰色的時候，這一生活型態就變老了。對灰色繪成灰色，不能使生活型態變得年青，而只能作為認識的對象。 密涅瓦的貓頭鷹要等到黃昏的到來，才會起飛。 法哲學原理, 黑格爾, G. W. F., and Hegel Georg Wilhelm Fr , 08/2020, (2020) , 序言, p.14</description>
     </item>
     
     <item>

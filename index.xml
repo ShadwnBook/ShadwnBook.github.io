@@ -6,25 +6,24 @@
     <description>Recent content on Shadwn Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 09 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ShadwnBook.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ShadwnBook.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://ShadwnBook.github.io/posts/%E7%89%B9%E6%AE%8A%E7%8C%9C%E6%8B%B3%E6%B3%95/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ShadwnBook.github.io/posts/%E7%89%B9%E6%AE%8A%E7%8C%9C%E6%8B%B3%E6%B3%95/</guid>
+      <description>同步指涉猜拳法 新版#猜拳規則：
+只猜一次，並同時指出所選的餐廳。 可以選擇剪刀、石頭、布，不出拳或亂出拳。 最終選判斷順序：確定出拳指涉 &amp;gt; 不確定指涉（亂出但指） &amp;gt; 不指涉（不出不指） 若兩人都不出拳或都亂出拳，需要重新進行猜拳或採取其他方式作出選擇。（機率是4％） 任何其他手勢都視為亂出拳，也可以指涉餐廳。 都不出不指或皆亂出亂指，選價位便宜的。</description>
+    </item>
+    
     <item>
       <title>矩陣計算機: 表格</title>
       <link>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/%E7%9F%A9%E9%99%A3%E8%A8%88%E7%AE%97%E6%A9%9F_%E8%A1%A8%E6%A0%BC/</link>
       <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/%E7%9F%A9%E9%99%A3%E8%A8%88%E7%AE%97%E6%A9%9F_%E8%A1%A8%E6%A0%BC/</guid>
-      <description>&lt;!DOCTYPE html&gt;Matrix CalculatorMatrix CalculatorMatrix AMatrix BAdd MatricesSubtract MatricesMultiply MatricesDivide MatricesResult</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ShadwnBook.github.io/posts/%E5%91%BD%E9%A1%8C%E5%BE%8C%E7%BD%AE%E5%BC%8F%E7%8C%9C%E6%8B%B3/</link>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://ShadwnBook.github.io/posts/%E5%91%BD%E9%A1%8C%E5%BE%8C%E7%BD%AE%E5%BC%8F%E7%8C%9C%E6%8B%B3/</guid>
-      <description>命題後置式猜拳法#Step 1.#猜一次無關勝敗的拳 確保同時說出命題 接下來有兩種情況 Step 2.#同時說出的命題發現相同→解決，因為大家所選本來就一樣，勝負平手，皆不重要。 有勝負，以勝的命題為最後決定。
-兩個人都無所謂亂置命題：以勝者形式決定
-勝者其實心中無所謂：直接選敗者的命題</description>
+      <description>&lt;!DOCTYPE html&gt;Matrix CalculatorMatrix CalculatorMatrix AMatrix BAdd MatricesSubtract MatricesMultiply MatricesDivide MatricesResult</description>
     </item>
     
     <item>
@@ -774,17 +773,21 @@ Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta So
 維特愛上了他朋友的妻子。他不能背叛朋友，他又不能放棄他的愛，所以他自殺。這自殺就像一道數學方程式一樣明晰( 我說的：無聊 )。
 但安娜·卡列寧娜為什麼自殺呢？她沒有作出決定就臥軌自盡了。應當說是決定抓住了安娜。決定突如其來地抓住了安娜。跟那位想談愛情卻談起了蘑菇的男人一樣，安娜是「出於一種意想不到的衝動」才這麼做的。這並不意味著她這麼做沒有意義。只是這一意義處於從理性上可以把握的因果關係之外。
 托爾斯泰不得不用喬伊斯式的內心獨白（這在小說史上是第一次）
+對「卡夫卡式」的探討相當精彩#他認為不只有黨、極權組織有這個傾向#一個女人在1951年的布拉格史達林派審判期間，為了一些不曾犯下的罪行被逮捕、判刑。
+當時還有百位共產黨員也遭遇相同處境。這些人終其一生成為黨的舌，黨卻咬了自己的舌。
+這些被拋棄的黨員接受了罪，開始尋找他們自己身上的想像罪行。發揮最大的想像力找出自身罪有應得的幻影。當然，結果是他們被判處死刑。 而女人拒絕想像，她在法庭上堅決否認對自己的過去蒙上一層神秘兮兮的色彩。所以，她被判處終生監禁。
+而後，真實的她被假釋，與兒子過著快樂的日子。
+多年後有個叫昆德拉的人去這女人的家裡找她，她正在哭。
+起因是與兒子吵架。吵架的理由是雞毛蒜皮的：兒子太晚起床。
+「睡得晚點又怎樣？不是什麼大不了的吧！」昆德拉作為一個作家這樣幫本性捍衛道。
+他的兒子突然擋在母親面前：「不，她是對的，她經歷你無法想像的苦難，是我睡的太晚了！我會改進，我在我母親前向你發誓。」
+一個黨沒完成的事，在一個女人身上完成了。
 《不朽》筆記#關於輕 戰爭只能存在於悲劇世界；從歷史之初起人類就生活在悲劇中，無法自拔。只有以輕浮對抗悲劇，這個時代才得以結束。
 貝多芬的第九交響曲將只剩下為貝拉香水廣告作伴奏的那歌頌歡樂的四個節拍。我並不因此而感到羞恥。
 悲劇將像一個手捂著心口、用沙啞的聲音背誦臺詞的蹩腳演員那樣被逐出世界。輕浮是一種根本性的減肥療法。
 各種東西將失去百分之九十的意義而變得輕飄飄的。在這種稀薄的大氣之中，狂熱消失了。戰爭將變得沒有可能。
 小說的不可定調 在一個哲學家與一個小說家的思維方式之間有著一種本質的不同。
-人們經常談到契訶夫的哲學、卡夫卡的哲學、穆齊爾的哲學，等等。
-但您試試去從他們的敘述中找出一種前後一貫的哲學看！ 即使當他們在手記中直接表達他們想法的時候，這些想法也只是一些思考練習，悖論遊戲，即興發揮，而非一種思想的確證。
-談及賽萬提斯以及唐吉訶德 堂吉訶德決定愛一位夫人杜爾西內婭時，他對她幾乎可以說是並不瞭解
-（這沒有什麼好讓我們驚奇的：當涉及到「Wahre Liebe」，真正的愛情時，我們已經知道，被愛的人並不重要）。
-孤獨的必要 自打結婚以後，阿涅絲便不得不放棄了孤獨的樂趣。
-強迫別人回答和必須回答的人之間的不平等。是作者所謂的「第十一戒」</description>
+人們經常談到契訶夫的哲學、卡夫卡的哲學、穆齊爾的哲學，等等。</description>
     </item>
     
     <item>

@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="&lt;!DOCTYPE html&gt;Matrix CalculatorMatrix CalculatorMatrix AMatrix BAdd MatricesSubtract MatricesMultiply MatricesDivide MatricesResult">
+<meta name="description" content="&lt;!DOCTYPE html&gt;Matrix CalculatorMatrix CalculatorMatrix AMatrix BAdd MatricesSubtract MatricesMultiply MatricesDivide MatricesResult">
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
 <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
 <meta name="color-scheme" content="light dark"><meta property="og:title" content="矩陣計算機: 表格" />
-<meta property="og:description" content="&lt;!DOCTYPE html&gt;Matrix CalculatorMatrix CalculatorMatrix AMatrix BAdd MatricesSubtract MatricesMultiply MatricesDivide MatricesResult" />
+<meta property="og:description" content="&lt;!DOCTYPE html&gt;Matrix CalculatorMatrix CalculatorMatrix AMatrix BAdd MatricesSubtract MatricesMultiply MatricesDivide MatricesResult" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://ShadwnBook.github.io/docs/%E4%BD%9C%E5%93%81/%E7%9F%A9%E9%99%A3%E8%A8%88%E7%AE%97%E6%A9%9F_%E8%A1%A8%E6%A0%BC/" /><meta property="article:section" content="docs" />
 <meta property="article:published_time" content="2023-11-09T00:00:00+00:00" />
@@ -518,8 +518,7 @@ https://github.com/alex-shpak/hugo-book
 
       
       
-  <article class="markdown">
-<!DOCTYPE html>
+  <article class="markdown"><!DOCTYPE html>
 <html>
 <head>
     <title>Matrix Calculator</title>
@@ -597,7 +596,11 @@ https://github.com/alex-shpak/hugo-book
                     } else if (operation === 'subtract') {
                         row.push(matrixA[i][j] - matrixB[i][j]);
                     } else if (operation === 'multiply') {
-                        row.push(matrixA[i][j] * matrixB[i][j]);
+                        var sum = 0;
+                        for (var k = 0; k < matrixA[i].length; k++) {
+                            sum += matrixA[i][k] * matrixB[k][j];
+                        }
+                        row.push(sum);
                     } else if (operation === 'divide') {
                         row.push(matrixA[i][j] / matrixB[i][j]);
                     }
